@@ -1,9 +1,9 @@
-# Best Widget Ever also known as: BWE
+# OctoUNO 
 
-## Project plan for BWE
+## Project plan for OctoUNO 
 
 Folders:  
-- firmware, holds firmware for BWE
+- firmware, holds firmware for Arduino Uno and a Proccessing sketch for DISPLAY of the curve trace
 - parts, holds specifications for all parts for PCB and enclosure etc.
 - pcb, holds the schematic and PCB design files.
 - assembly, holds the folders and files for assembly of the PCB and the BWE.

@@ -1,16 +1,18 @@
-# Best Widget Ever also known as: BWE
+# OctoUNO_Product 
+A "marketing" product specification.
 
-## Product specification for BWE
-### Uses an ESP32 to acheive universal peace and prosperity by ....
+## Product specification for OctoUNO_Product  
+### Make an elementary curver tracer out of an Arduino UNO. Display on a Processing program
+### A free open design for public release
+
 
 Feature list:
-- Winks and LED to assure users of normal opperation
-- Cures all desease
-- Makes clean energy
-- Restores the environment and climate
-- Brings back interesting extinct species and tests them for safty
-- Time travles to the library of Alexeandera and copies contents with out changing the past
-- Proves that eggs came before chickens
+- Mimimal cost external electrical components (<1.00 exclusive of a PCB and connectors and enclosure)
+- Can be assembled on solderless breadboard if you need in a hurry.
+- Voltage "compliance", the range of test of the DUT is plus and minus about 2.5 volts.
+- Display free runs and acumulates curves but can be cleared.
+- Display background color can be changed
+- Heartbeat LED Winks
 
 
 
