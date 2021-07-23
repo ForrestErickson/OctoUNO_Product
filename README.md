@@ -4,7 +4,8 @@ Demonstrating also use the Best Widget Ever, a product development template. And
 
 ## Project plan for OcotUNO_Product
 ![Schematic OctoUNO](/pcb/Schematic20210722_1633.png)
-![PCB OctoUNO](/pcb/PCBScreenShot.png)
+![PCB OctoUNO](/pcb/PCBScreenShot.png)  
+Note I started the schematic and PCB with files from this resource: https://forum.expresspcb.com/community-library/package/57/
 
 
 Folders:  
