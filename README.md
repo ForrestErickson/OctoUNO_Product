@@ -2,6 +2,9 @@
 A curve tracer based on Arduino UNO and display on PC with a Processing program DISPLAY
 Demonstrating also use the Best Widget Ever, a product development template. And idea for a template for doucmentation to help beginners when developing a project / product.
 
+See example curve trace on the repository for the software at: https://github.com/ForrestErickson/OctoUNO  
+**Note:** the software at the OctoUNO web site is my first release and I have duplicated in this repository. If I amay make updates it is likly to be here. I am not sure if I will update the OctoUNO repository.
+
 ## Project plan for OcotUNO_Product
 ![Schematic OctoUNO](/pcb/Schematic20210722_1633.png)
 ![PCB OctoUNO](/pcb/PCBScreenShot.png)  
