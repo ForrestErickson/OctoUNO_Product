@@ -23,7 +23,8 @@ From start of design to first production.
 - 20 July 2021 schematics drawin in lab notbook cover date "Start 2013" See starting at page 76.
 - 21 July bread board up per schematic on page 81. Software composed of UNO firmware and Proccessing Drawing working. Push unversioned Software to github at repository: https://github.com/ForrestErickson/OctoUNO
 - 23 July Added event driven serial read to OctoUNO firmware. Reading some commands that are slightly SCPI like (I don't really know yet) and add mouse control from the DISPLAY control. Add button to start ( and some times stop) data capture. Update SCH and PCB so that OctoUNO can reset it's self. Add version numbers. Modify schematic and PCB. Add button to start/stop. Add prototype area. Wire another ADC input to connector. Update firmware and display. Add notes on probe signal names. Version 0.0.3.
-
+- 8 September Fix Q2 schematic for PNP. Update PCB. Make new schematic and PCB screen shots which show prototype area. Schematic and PCB marked version 0.0.4.
+  
 ## Future project milestones
  
 - Update Drawings for all parts in folders, electrical and mechanical 
