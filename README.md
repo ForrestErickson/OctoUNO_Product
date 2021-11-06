@@ -6,8 +6,12 @@ See Arduino firmware and PC Processing software on the repository for the softwa
 **Note:** the software at the OctoUNO GitHub site is my first release and I may try to include in this repository in the future. 
 
 ## Project plan for OcotUNO_Product
-- Display OctoUNO
+- Display OctoUNO Back to Back Diodes
 <img alt= "Display OctoUNO" src="https://github.com/ForrestErickson/OctoUNO/blob/main/ScreenShotDisplay.png" width="320" />  
+- Display OctoUNO Base Emitter of NPN 2N2222
+<img alt= "Display OctoUNO BE 2N2222 " src="ScreenShotDisplay_BE2N2222.png" width="320" />  
+- Display OctoUNO Base Emitter of PNP 2N2907
+<img alt= "Display OctoUNO BE 2N2907 " src="ScreenShotDisplay_BE2N2907.png" width="320" />  
 
 - Schematic OctoUNO in ExpressPCB    
 <img alt= "Schematic OctoUNO]" src="/pcb/expresspcb/Schematic20210722_1633.png " width="320" />  
