@@ -6,6 +6,10 @@ See example curve trace on the repository for the software at: https://github.co
 **Note:** the software at the OctoUNO web site is my first release and I have duplicated in this repository. If I amay make updates it is likly to be here. I am not sure if I will update the OctoUNO repository.
 
 ## Project plan for OcotUNO_Product
+- Display OctoUNO
+<img alt= "Display OctoUNO" src="https://github.com/ForrestErickson/OctoUNO/blob/main/ScreenShotDisplay.png" width="320" />  
+
+
 - Schematic OctoUNO in ExpressPCB    
 <img alt= "Schematic OctoUNO]" src="/pcb/expresspcb/Schematic20210722_1633.png " width="320" />  
 
